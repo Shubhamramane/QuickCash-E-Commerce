@@ -1,0 +1,321 @@
+body{
+    overflow-y: scroll;
+}
+.Stepper {
+    margin-top: 80px;
+}
+.chakra-steps.css-1b8x7s7 {
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+    color: white;
+}
+button.chakra-button.css-1obapmm {
+    background-color: white;
+    color: black;
+    opacity: 9;
+}
+button.chakra-button.css-n1k2ji {
+    background-color: white!important;
+}
+.css-asvefe {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: block!important;
+    -webkit-box-pack: center;
+    -ms-flex-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    width: 100%;
+    /* margin-left: 45%!important; */
+    margin-bottom: 40px;
+    text-align: center!important;
+    margin-top: 20px;
+}
+span.css-v0f33p {
+    color: white;
+}
+span.css-62u96g {
+    color: white!important;
+    opacity: 9;
+}
+/* -------------------------------productdetails--------------- */
+button.chakra-button.next-btn.css-n1k2ji {
+    border: 1px solid black;
+    background-color: #25AAE1!important;
+    color: white!important;
+    border: none!important;
+    padding: 5px 15px!important;
+    margin-top: 20px;
+    width: 5%;
+}
+button.chakra-button.prev-btn.css-1obapmm {
+    border: 1px solid black;
+    background-color: #25AAE1!important;
+    color: white!important;
+    border: none!important;
+    padding: 5px 15px!important;
+    margin-top: 20px;
+    width: 5%;
+}
+
+.another_btn{
+    background-color: #25AAE1!important;
+    color: white;
+    border: none;
+}
+.chakra-steps.css-1b8x7s7 {      
+    padding-top: 30px;
+    padding-bottom: 25px;
+    color: white!important;
+    background: #25AAE1;
+    width: 100%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.css-1q6z37w {
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    margin-top: var(--chakra-space-1);
+    opacity: 9!important;
+    color: white!important;
+    font-weight: var(--chakra-fontWeights-medium);
+    text-align: center;
+    font-size: var(--chakra-fontSizes-md);
+}
+.css-x4t3su {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    line-height: 1em;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    color: #25AAE1!important;
+    vertical-align: middle;
+}
+.css-csiupd {
+    /* margin-left: 200px; */
+    opacity: 1;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: flex-start;
+    -webkit-box-align: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+}
+.css-1kjktec {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    /* margin-right: 200px; */
+}
+.css-1gchwv {
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    margin-top: var(--chakra-space-1);
+    opacity: 1;
+    color: white!important;
+    font-weight: var(--chakra-fontWeights-medium);
+    text-align: center;
+    font-size: var(--chakra-fontSizes-md);
+    font-size: 15px;
+}
+.css-zdz6fk[aria-current=step] {
+    background: white!important;
+    border-color: white!important;
+}
+.css-rif36j[data-highlighted] {
+    border-color: white!important;
+}
+.css-15e3ek0[data-highlighted] {
+    border-color: white!important;
+}
+.css-zdz6fk[data-highlighted] {
+    background: white!important;
+    border-color: white!important;
+}
+.css-1xwwbm2[data-highlighted] {
+    border-color: white!important;
+}
+.css-k5il5a[data-highlighted] {
+    border-color: white!important;
+}
+.css-5jvez2[data-highlighted] {
+    border-color: white!important;
+}
+.css-1n7n7la {
+    opacity: 9!important;
+}
+.css-1q6z37w {
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    margin-top: var(--chakra-space-1);
+    opacity: 9.9!important;
+    color: #fff!important;
+    font-weight: var(--chakra-fontWeights-medium);
+    text-align: center;
+    font-size: var(--chakra-fontSizes-md);
+}
+.css-eb100c {
+    /* font-weight: var(--chakra-fontWeights-medium); */
+    text-align: center;
+    font-size: 20px!important;
+    font-weight: 700!important;
+}
+span.css-eb100c {
+    color: white;
+}
+.css-zdz6fk[aria-current=step] span {
+    color: black !important;
+}
+.css-zdz6fk {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border-radius: 50%;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    background: transparent!important;
+    border-color: white!important;
+    transition-property: background,border-color;
+    transition-duration: var(--chakra-transition-duration-normal);
+    width: 40px;
+    height: 40px;
+    border-width: 2px;
+}
+.css-1xusoxu[data-highlighted] {
+    border-color: white!important;
+}
+.nextss{
+    border: 1px solid black;
+    background-color: #25AAE1!important;
+    color: white!important;
+    border: none!important;
+    padding: 5px 15px!important;
+}
+@media screen and (max-width: 768px){
+    .css-asvefe {
+        display: -ms-flexbox;
+        display: block!important;
+        justify-content: flex-end;
+        width: 100%;
+        margin-left: 0%!important;
+        margin-bottom: 40px;
+        text-align: center!important;
+    }
+    button.chakra-button.next-btn.css-n1k2ji {
+        border: 1px solid black;
+        background-color: #25AAE1!important;
+        color: white!important;
+        border: none!important;
+        padding: 5px 15px!important;
+        margin-top: 20px;
+        width: 16%;
+    }
+    button.chakra-button.prev-btn.css-1obapmm {
+        border: 1px solid black;
+        background-color: #25AAE1!important;
+        color: white!important;
+        border: none!important;
+        padding: 5px 15px!important;
+        margin-top: 20px;
+        width: 16%;
+    }
+
+    .css-zdz6fk {
+        background: #25AAE1!important;
+        color: white!important;
+    }
+
+    .css-zdz6fk[aria-current=step] {
+        background: #25AAE1!important;
+        border-color: white!important;
+        color: white!important;
+    }
+
+    .css-zdz6fk[aria-current=step] span {
+        color: white !important;
+    }
+
+    span.css-v0f33p {
+        color: #25AAE1!important;
+    }
+
+    span.css-62u96g {
+        color: #25AAE1!important;
+        opacity: 9;
+    }
+
+    .thankyou {
+        width: 68%!important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.thankyou{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PhoneInput {
+    display: flex;
+    align-items: center;
+}
+.PhoneInputCountry {
+    display: none;
+}
+
+select.PhoneInputCountrySelect {
+    width: 142%;
+    position: relative!important;
+    left: 45px!important;
+}
+
+img.PhoneInputCountryIconImg {
+    width: 70%;
+    position: relative!important;
+    left: -10px!important;
+}
+
+input.PhoneInputInput {
+    padding: 5px;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+}

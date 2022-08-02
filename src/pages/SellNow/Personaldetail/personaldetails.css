@@ -1,0 +1,51 @@
+.personaldetails {
+  position: relative;
+  top: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 130px;
+}
+
+.css-k7r2wc {
+  width: 100%!important;
+}
+.css-42b2qy {
+  width: 100%!important;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  position: relative;
+}
+
+button.chakra-button.css-1s73nd2 {
+  display: block!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
+
+.continue-btn{
+  display: block!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  margin-top: 10px;
+  background-color: #1F34E9!important;
+  color: white!important;
+  
+}
+
+.textareas{
+  min-height: 62px!important;
+}
+
+/* select#country {
+  padding-right: 100px;
+} */
+
+@media screen and (max-width: 768px) {
+  .card-contact {
+    flex-direction: column;
+  }
+  .sendMsg {
+    width: 100%;
+    border: 1px solid rgba(179, 179, 179, 0.664);
+  }
+}

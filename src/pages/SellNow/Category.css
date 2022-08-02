@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px){
+    .css-1age63q {
+        width: 85%!important;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .css-1age63q {
+        /* width: 90%; */
+        display: block!important;
+        margin-left: 0px;
+        /* margin-right: auto; */
+        margin-top: 10px;
+        height: 100%;
+    }
+    
+}
